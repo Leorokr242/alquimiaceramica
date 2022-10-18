@@ -1,2 +1,10 @@
-h1 {
-  color: red; }
+header {
+  display: inline-flex;
+  width: 90%;
+  margin: 40px 20px 40px 20px;
+  background-color: antiquewhite;
+  justify-content: space-between; }
+
+* {
+  margin: 0;
+  padding: 0; }
