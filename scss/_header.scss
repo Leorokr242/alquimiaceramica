@@ -1,6 +1,22 @@
 header {
-    @include header  
+    @include header;  
+    position: relative;
 }
 
+header nav {
+    display: inline-block;
+    position: absolute;
+    background-color: #ff6a00;
+}
+
+header nav ul{
+   
+   
+    
+}
+
+.buttonHed {
+
+}
 
 
